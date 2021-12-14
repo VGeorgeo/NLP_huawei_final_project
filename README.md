@@ -1,5 +1,5 @@
 # NLP_huawei_final_project
-> This is the Final Projects of Natural Language Processing course from [ods.ai](https://ods.ai/tracks/nlp-course) and Huawei by Valentin Malykh
+> This is the Final Projects of Natural Language Processing course from [ods.ai](https://ods.ai/tracks/nlp-course) and Huawei by [Valentin Malykh](http://val.maly.hk/)
 
 ## Project Abstract
 A properly functioning search engine is an important part of creating websites. Correct recommendations can increase your traffic and profits. The results are based on the quantity and quality of the collected data and the selected recommendation model. In this work, I created a search engine for an aggregator of educational resources. The problem was solved by several approaches that were compared with each other.
@@ -38,16 +38,11 @@ Pre-trained nlp models showed more meaningful recommendations. Basically, the te
 In this work, I tried to solve the problem of a search engine and recommendations based on the given database. The database was cleaned from misleading information and pre-processed. TF-IDF and pre-trained nlp model were applied to make recommendations. TF-IDF obviously showed muddled recommendations because it bases them only on words frequency. However, it can still be used to search for certain unigrams, bigrams, and so on. Pre-trained models showed more reliable results, but they can be improved too. First of all, I will finalize the model for this database which should increase the adequacy. Also, it has been noticed that pre-trained models often suggest short texts, for example, with only a title. This may mean that the models of long texts are noisy and show less similarity. Thus, reducing the length of the text can improve accuracy. Another option, long text keywords can be extracted and used for searching similar texts.
 
 
-
-
-
-
-
-
-
-
-
-
+These are some results of models recommendations for request: "Инженерное налогообложение"
 
 ![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png) ![image](https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png)
+
+![image](https://user-images.githubusercontent.com/8645410/146073212-9ba5213e-8eb6-40eb-a1d6-58a1c5d814aa.png) ![image](https://user-images.githubusercontent.com/8645410/146073250-bc0ef377-b0b3-4ffc-af1e-97a4980ee61e.png)
+
+
 
