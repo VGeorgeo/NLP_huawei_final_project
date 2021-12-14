@@ -41,6 +41,10 @@ In this work, I tried to solve the problem of a search engine and recommendation
 There are some results of models recommendations for request: "Инженерное налогообложение"
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/8645410/146076980-a421f7ad-d7d6-4b8a-91d2-ae626321ace4.png">
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png">
 </p>
 
@@ -51,8 +55,3 @@ There are some results of models recommendations for request: "Инженерн�
 <p align="center">
   <img src="https://user-images.githubusercontent.com/8645410/146073250-bc0ef377-b0b3-4ffc-af1e-97a4980ee61e.png">
 </p>
-
-
-
-
-
