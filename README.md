@@ -38,11 +38,10 @@ Pre-trained nlp models showed more meaningful recommendations. Basically, the te
 In this work, I tried to solve the problem of a search engine and recommendations based on the given database. The database was cleaned from misleading information and pre-processed. TF-IDF and pre-trained nlp model were applied to make recommendations. TF-IDF obviously showed muddled recommendations because it bases them only on words frequency. However, it can still be used to search for certain unigrams, bigrams, and so on. Pre-trained models showed more reliable results, but they can be improved too. First of all, I will finalize the model for this database which should increase the adequacy. Also, it has been noticed that pre-trained models often suggest short texts, for example, with only a title. This may mean that the models of long texts are noisy and show less similarity. Thus, reducing the length of the text can improve accuracy. Another option, long text keywords can be extracted and used for searching similar texts.
 
 
-These are some results of models recommendations for request: "Инженерное налогообложение"
+There are some results of models recommendations for request: "Инженерное налогообложение"
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png"  />
-  <img src="https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png"  /> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png">
 </p>
 
 <p align="center">
