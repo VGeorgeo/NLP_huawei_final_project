@@ -41,7 +41,7 @@ In this work, I tried to solve the problem of a search engine and recommendation
 These are some results of models recommendations for request: "Инженерное налогообложение"
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png">
+  <img width="550" height="400" src="https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png">
 </p>
 
 ![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png)
