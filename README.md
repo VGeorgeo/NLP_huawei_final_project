@@ -46,14 +46,6 @@ These are some results of models recommendations for request: "Инженерн�
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png">
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/8645410/146073860-ce9b529e-326f-450a-8d6c-7b74221f4b6a.png">
 </p>
 
