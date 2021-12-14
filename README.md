@@ -4,5 +4,7 @@
 ## Project Abstract
 A properly functioning search engine is an important part of creating websites. Correct recommendations can increase your traffic and profits. The results are based on the quantity and quality of the collected data and the selected recommendation model. In this work, I created a search engine for an aggregator of educational resources. The problem was solved by several approaches that were compared with each other.
 
-![image](https://user-images.githubusercontent.com/8645410/146071917-f485d89f-2cfd-44fc-b32d-889cfbe58234.png) ![image](https://user-images.githubusercontent.com/8645410/146071997-9f3007c2-17a8-4eb1-af0d-e58e656a2a17.png)
+
+
+![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png) ![image](https://user-images.githubusercontent.com/8645410/146071997-9f3007c2-17a8-4eb1-af0d-e58e656a2a17.png)
 
