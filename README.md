@@ -40,9 +40,10 @@ In this work, I tried to solve the problem of a search engine and recommendation
 
 These are some results of models recommendations for request: "Инженерное налогообложение"
 
-![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png) ![image](https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png)
-
-![image](https://user-images.githubusercontent.com/8645410/146073212-9ba5213e-8eb6-40eb-a1d6-58a1c5d814aa.png) ![image](https://user-images.githubusercontent.com/8645410/146073250-bc0ef377-b0b3-4ffc-af1e-97a4980ee61e.png)
+<center>![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png)</center>
+<center>![image](https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png)</center>
+<center>![image](https://user-images.githubusercontent.com/8645410/146073212-9ba5213e-8eb6-40eb-a1d6-58a1c5d814aa.png) </center>
+<center>![image](https://user-images.githubusercontent.com/8645410/146073250-bc0ef377-b0b3-4ffc-af1e-97a4980ee61e.png) </center>
 
 
 
