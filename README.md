@@ -39,15 +39,19 @@ In this work, I tried to solve the problem of a search engine and recommendation
 
 
 These are some results of models recommendations for request: "Инженерное налогообложение"
+
 <p align="center">
-![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png?style=centerme)
- 
-![image](https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png?style=centerme)
-
-![image](https://user-images.githubusercontent.com/8645410/146073860-ce9b529e-326f-450a-8d6c-7b74221f4b6a.png?style=centerme)
-
-![image](https://user-images.githubusercontent.com/8645410/146073250-bc0ef377-b0b3-4ffc-af1e-97a4980ee61e.png?style=centerme)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png">
 </p>
+
+![image](https://user-images.githubusercontent.com/8645410/146072063-f2863bb6-a030-40ab-9af7-152f97cfb0d3.png)
+ 
+![image](https://user-images.githubusercontent.com/8645410/146072160-e87b87c5-b95c-4591-84be-6590c0580e60.png)
+
+![image](https://user-images.githubusercontent.com/8645410/146073860-ce9b529e-326f-450a-8d6c-7b74221f4b6a.png)
+
+![image](https://user-images.githubusercontent.com/8645410/146073250-bc0ef377-b0b3-4ffc-af1e-97a4980ee61e.png)
+
 
 
 
