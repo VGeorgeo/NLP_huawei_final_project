@@ -84,8 +84,8 @@ def ruBERT_download_save():
 
 def ruBERT_load(name='ruBERT_tiny'):
     '''
-    Make Tfidf matrix 
-    :param low: size of ngram
+    Load RuBERT pretrained model
+    :param name: name of model
     '''   
     
     file = open('../models/pretrained/RuBERT/' + name + '_model.obj','rb')
@@ -102,8 +102,8 @@ def ruBERT_load(name='ruBERT_tiny'):
 
 def LaBSE_load():
     '''
-    Make Tfidf matrix 
-    :param low: size of ngram
+    Load LaBSE pretrained model
+    :param name: name of model
     '''   
     
     file = open('../models/pretrained/LaBSE.obj','rb')
